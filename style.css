@@ -44,6 +44,9 @@ Version:	1.1
 /*=======================
 	Header CSS
 =========================*/ 
+body {
+	font-size: 16px;
+}
 #header {
 	top: 0;
 	width: 100%;
