@@ -44,6 +44,9 @@ Version:	1.1
 /*=======================
 	Header CSS
 =========================*/ 
+.section-title h1 {
+	color: #57313e;
+}
 #header {
 	top: 0;
 	width: 100%;
